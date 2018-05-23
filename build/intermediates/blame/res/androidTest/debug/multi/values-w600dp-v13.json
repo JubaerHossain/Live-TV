@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

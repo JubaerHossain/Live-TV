@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_simple.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__search_view.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_simple.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__search_view.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_simple.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__search_view.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "H:\\android\\new makeing\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "G:\\app\\LivTV\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "G:\\app\\onlineradio\\codecanyon-7960815-online-radio\\Android Code\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    }
+]
